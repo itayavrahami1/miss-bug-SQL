@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;
+}
+input{
+    padding: 8px;
+}
+label{
+    margin: 0 5px;
+}
+img{
+    width: 70px;
+}
+
+
+header {
+    background-color: darkcyan;
+    padding: 10px;
+}
+footer {
+    background-color: darkgray;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.bug-preview {
+    background-color: lightseagreen;
+    display: inline-block;
+    margin: 2px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.active {
+    color: gold;
+}
+
+#map {
+    height: 300px;
+    background-color:beige;
+}
+
+
+.user-msg {
+    background-color: aliceblue;
+    position: absolute;
+    top:0;
+    right: 10px;
+    font-size: 1.2em;
+    padding: 10px 20px;
+}
+
+.user-msg button {
+    float: right;
+}
+
+.survey {
+    background-color: lightgray;
+    padding: 29px;
+}
+
+
